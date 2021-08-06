@@ -1,0 +1,5 @@
+requests==2.22.0
+openpyxl==3.0.3
+lxml==4.4.2
+PyYAML==5.4.1
+selenium==3.141.0
