@@ -5,3 +5,4 @@
 # @Email:2560500412@qq.com
 if __name__ == '__main__':
     print("Jenkins Test")
+    print("Python Test")
